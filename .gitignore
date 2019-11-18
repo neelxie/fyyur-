@@ -1,0 +1,7 @@
+.vscode
+coverage/*
+venv/
+env/
+penv/
+__pycache__
+*.pyc
